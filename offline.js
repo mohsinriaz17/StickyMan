@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1598805141,
+	"version": 1600177830,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -48,6 +48,7 @@
 		"images/shad-sheet0.png",
 		"images/revive-sheet0.png",
 		"images/spin-sheet0.png",
+		"images/play-sheet0.png",
 		"media/click.ogg",
 		"media/locked.ogg",
 		"media/unlock.ogg",
